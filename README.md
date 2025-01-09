@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## - 👋 Hi there! I'm Tejasmita choudhury- 💻 I'm a passionate Frontend Developer who loves building beautiful and responsive web applications using html,css,javascript. - 🤔 I’m looking for frontend developer internship to help with mini frontend projects.- 📫 How to reach me: tejasmitachoudhury7@gmail.com - 😄 Pronouns: She/Her- ⚡ Fun fact: Why do programmers prefer dark mode? Because the light attracts bugs! 😎💻
 <!--
 **Tejasmita-Choudhury/Tejasmita-Choudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
